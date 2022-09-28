@@ -1,0 +1,15 @@
+C:\Users\Henrique\source\repos\PrimeiraApp\PrimeiraApp\bin\Debug\net6.0\PrimeiraApp.exe
+C:\Users\Henrique\source\repos\PrimeiraApp\PrimeiraApp\bin\Debug\net6.0\PrimeiraApp.deps.json
+C:\Users\Henrique\source\repos\PrimeiraApp\PrimeiraApp\bin\Debug\net6.0\PrimeiraApp.runtimeconfig.json
+C:\Users\Henrique\source\repos\PrimeiraApp\PrimeiraApp\bin\Debug\net6.0\PrimeiraApp.dll
+C:\Users\Henrique\source\repos\PrimeiraApp\PrimeiraApp\bin\Debug\net6.0\PrimeiraApp.pdb
+C:\Users\Henrique\source\repos\PrimeiraApp\PrimeiraApp\obj\Debug\net6.0\PrimeiraApp.csproj.AssemblyReference.cache
+C:\Users\Henrique\source\repos\PrimeiraApp\PrimeiraApp\obj\Debug\net6.0\PrimeiraApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\repos\PrimeiraApp\PrimeiraApp\obj\Debug\net6.0\PrimeiraApp.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\repos\PrimeiraApp\PrimeiraApp\obj\Debug\net6.0\PrimeiraApp.AssemblyInfo.cs
+C:\Users\Henrique\source\repos\PrimeiraApp\PrimeiraApp\obj\Debug\net6.0\PrimeiraApp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\PrimeiraApp\PrimeiraApp\obj\Debug\net6.0\PrimeiraApp.dll
+C:\Users\Henrique\source\repos\PrimeiraApp\PrimeiraApp\obj\Debug\net6.0\refint\PrimeiraApp.dll
+C:\Users\Henrique\source\repos\PrimeiraApp\PrimeiraApp\obj\Debug\net6.0\PrimeiraApp.pdb
+C:\Users\Henrique\source\repos\PrimeiraApp\PrimeiraApp\obj\Debug\net6.0\PrimeiraApp.genruntimeconfig.cache
+C:\Users\Henrique\source\repos\PrimeiraApp\PrimeiraApp\obj\Debug\net6.0\ref\PrimeiraApp.dll
