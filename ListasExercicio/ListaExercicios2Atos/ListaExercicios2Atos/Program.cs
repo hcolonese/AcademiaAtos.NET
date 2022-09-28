@@ -6,8 +6,6 @@
         static void Main(string[] args)
         {
 
-            //Função calculadora
-            //Fazer
 
             //Exercicio 1
             //int b, alt;
