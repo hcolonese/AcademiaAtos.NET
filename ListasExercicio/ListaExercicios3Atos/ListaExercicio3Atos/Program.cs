@@ -6,7 +6,7 @@ namespace ListaExercicios3Atos
     {
         static void Main(string[] args)
         {
-            //Exercicios Loop For
+            //Exercicios Loop For em aula
             ////somatorio entre 55 e 127
             //int contagem = 0;
             //for(int i = 56; i < 127; i++)
@@ -96,7 +96,9 @@ namespace ListaExercicios3Atos
             //} while (numero >= 0);
             //Console.WriteLine("A quantidade de números pares é: "+cont);
 
-            //Exercicio 1 e 2
+
+            //Exercicios Lista 3
+            //Exercicio 1 e 2 
 
             //int numero;
             //string again = "";
@@ -334,11 +336,203 @@ namespace ListaExercicios3Atos
             //Console.WriteLine("Número de pessoas com idade superior a 60 anos: " + mais60);
             //Console.WriteLine("Média da idade das mulheres: " + media/ contFem);
 
+            //Exercicio 11
+            //float media = 0,nota=0,maior=0,menor=0;
+            //int cont = 0;
+            //Console.WriteLine("Digite uma nota");
+            //nota = int.Parse(Console.ReadLine());
+            //maior = nota;
+            //menor = nota;
+            //while (nota != -1)
+            //{
+            //    if(nota == -1)
+            //    {
+            //        break;
+            //    }
+            //    if (nota > maior)
+            //    {
+            //        maior= nota;
+            //    }
+            //    if (nota < menor)
+            //    {
+            //        menor= nota;
+            //    }
+            //    media += nota;
+            //    cont++;
+            //    Console.WriteLine("Digite uma nota");
+            //    nota = int.Parse(Console.ReadLine());
+            //}
+            //Console.WriteLine("A nota mais alta foi: "+maior);
+            //Console.WriteLine("A nota mais baixa foi: "+menor);
+            //Console.WriteLine("A média da turma foi: " + media/cont);
+            //Console.WriteLine("A quantidade de alunos na turma é: " + cont);
 
+            //Exercicio 12
+            //int soma=0;
+            //for(int i = 0; i <= 100; i++)
+            //{
+            //    soma += i;
+            //}
+            //Console.WriteLine("A soma é: "+soma);
 
+            //Exercicio 13
+            //int soma = 0;
+            //for (int i = 2; i < 500; i++)
+            //{
+            //    if(i%2 == 0)
+            //    {
+            //    soma += i;
+            //    }
+            //}
+            //Console.WriteLine("A soma é: " + soma);
+
+            //Exercicio 14
+            //for(int i = 0; i <= 10; i++)
+            //{
+            //    Console.WriteLine("A potência de 2 elevado a "+i+" é: "+Math.Pow(2,i));
+            //}
+
+            //Exercicio 15
+            //int[] pesos = {2,1,2,4};
+            //float media=0;
+            //for(int i = 0; i < pesos.Length; i++)
+            //{
+            //    Console.WriteLine("Digite a nota "+i+":");
+            //    float nota = float.Parse(Console.ReadLine());
+            //    media += nota * pesos[i];
+            //}
+            //int somaPesos = 0;
+            //for(int i=0; i < pesos.Length; i++)
+            //{
+            //    somaPesos += pesos[i];
+            //}
+            //media = media / somaPesos;
+            //if(media >= 7.0F)
+            //{
+            //Console.WriteLine("Aluno aprovado");
+            //}
+            //else
+            //    Console.WriteLine("Aluno reprovado");
+
+            //Exercicio 16
+            //double result;
+            //Console.WriteLine("Digite seu número: ");
+            //int n = int.Parse(Console.ReadLine());
+            //while (n<=0 || n > 50)
+            //{
+            //    Console.WriteLine("Número fora dos limites, deve ser maior que 0 e menor que 50, digite novamente: ");
+            //    n = int.Parse(Console.ReadLine());
+            //}
+            //int multiplicador = 3;
+            //result = n* multiplicador;
+            //while(result < 250)
+            //{
+            //    Console.WriteLine("O número é menor que 250, multiplicando ele por "+ multiplicador+": "+ result);
+            //    multiplicador *= 3;
+            //    result = n* multiplicador;
+            //}
+
+            //Exercicio 17
+            //for(int i = 15; i <= 200; i++)
+            //{
+            //    Console.WriteLine("O quadrado do número é: "+Math.Pow(i,2));
+            //}
+
+            //Exercicio 18
+            //Console.WriteLine("Digite a base da sua potência:");
+            //int baseDaPotencia = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Digite o expoente da sua potência:");
+            //int expoente = int.Parse(Console.ReadLine());
+            //int cont = 0;
+            //while(cont <= expoente)
+            //{
+            //    Console.WriteLine(Math.Pow(baseDaPotencia,cont));
+            //    cont++;
+            //}
+
+            //Exercicio 19
+            //int nFilhos,cont=0;
+            //float salario,mediaSal=0,mediaFilhos=0,maiorSal=0, ate100 = 0;
+            //do
+            //{
+            //    Console.WriteLine("Digite seu salário: ");
+            //    salario = float.Parse(Console.ReadLine());
+            //    if (salario == 0)
+            //    {
+            //        break;
+            //    }
+            //    mediaSal += salario;
+            //    if (salario > maiorSal)
+            //    {
+            //        maiorSal = salario;
+            //    }
+            //    if(salario <= 100)
+            //    {
+            //        ate100++;
+            //    }
+            //    Console.WriteLine("Digite a quantidade de filhos: ");
+            //    nFilhos = int.Parse(Console.ReadLine());
+            //    mediaFilhos += nFilhos;
+            //    cont++;
+
+            //} while (salario > 0);
+            //Console.WriteLine(cont);
+            //Console.WriteLine("A média de salário da população é: "+mediaSal/cont);
+            //Console.WriteLine("A média de filhos da população é: " +mediaFilhos/cont);
+            //Console.WriteLine("O maior salário da população é: " + maiorSal);
+            //Console.WriteLine("Opercentual de pessoas com salário até R$100 é: "+((ate100 / cont)*100)+" porcento");
+
+            //Exercicio 20
+            //string sexo = "", corOlhos = "", corCabelo = "";
+            //int idade, maiorIdade = -1, quantMulheresGrupo = 0;
+            //do
+            //{   
+            //    Console.WriteLine("Digite sua idade");
+            //    idade = int.Parse(Console.ReadLine());
+            //    if (idade == -1)
+            //    {
+            //        break;
+            //    }
+            //    Console.WriteLine("Digite seu sexo (M/F)");
+            //    sexo = Console.ReadLine();
+            //    while(sexo!="M" && sexo != "F")
+            //    {
+            //        Console.WriteLine("Valor incorreto, digite novamente,(M/F)");
+            //        sexo = Console.ReadLine();
+            //    }
+
+            //    Console.WriteLine("Digite a cor dos seus olhos (V[verde]/A[azul]/C[castanho])");
+            //    corOlhos = Console.ReadLine();
+            //    while (corOlhos != "V" && corOlhos != "A" && corOlhos != "C")
+            //    {
+            //        Console.WriteLine("Valor incorreto, digite novamente,(V[verde]/A[azul]/C[castanho])");
+            //        corOlhos = Console.ReadLine();
+            //    }
+
+            //    Console.WriteLine("Digite a cor do seu cabelo (L[loiro]/C[castanho]/P[preto])");
+            //    corCabelo = Console.ReadLine();
+            //    while (corCabelo != "L" && corCabelo != "C" && corCabelo != "P")
+            //    {
+            //        Console.WriteLine("Valor incorreto, digite novamente,(L[loiro]/C[castanho]/P[preto])");
+            //        corCabelo = Console.ReadLine();
+            //    }
+
+            //    if (idade > maiorIdade)
+            //    {
+            //        maiorIdade = idade;
+            //    }
+            //    if(sexo=="F"&& idade>=18 && idade<=35 && corOlhos=="V" && corCabelo == "L")
+            //    {
+            //        quantMulheresGrupo++;
+            //    }
+
+            //} while (idade!=-1);
+            //Console.WriteLine("A maior idade dos habitantes é: "+maiorIdade);
+            //Console.WriteLine("A quantidade de mulheres cuja idade está entre 18 e 35 anos" +
+            //    " inclusive, e que tenham olhos verdes e cabelos loiros é: "+quantMulheresGrupo);
 
         }
-            public static bool EhPrimo(int num)
+        public static bool EhPrimo(int num)
             {
             int contador=0;
                 for(int i = 1; i <= num; i++)
