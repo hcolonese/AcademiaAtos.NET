@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace ListaExercicios7Atos
 {
-    internal class Lampada
+    public class Lampada
     {
+        //Classe criada de exemplo nas aulas
         private bool ligada;
         private double potencia;
 

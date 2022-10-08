@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ListaExercicios7Atos
 {
-    internal class Aluguel
+    public class Aluguel
     {
         private string dataInicio;
         private int dias;

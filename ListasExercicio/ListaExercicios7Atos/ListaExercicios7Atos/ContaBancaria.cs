@@ -6,15 +6,16 @@ using System.Threading.Tasks;
 
 namespace ListaExercicios7Atos
 {
-    internal class TransacaoBancaria
+    public class ContaBancaria
     {
+        //Classe criada de exemplo nas aulas
         private Cliente cliente;
         private string agencia, tipo, conta;
         private float saldo=0;
 
         public Cliente Cliente { get => cliente; set => cliente = value; }
 
-        public TransacaoBancaria(string agencia, string tipo, string conta, Cliente cliente, float saldo)
+        public ContaBancaria(string agencia, string tipo, string conta, Cliente cliente, float saldo)
         {
             this.agencia = agencia;
             this.tipo = tipo;

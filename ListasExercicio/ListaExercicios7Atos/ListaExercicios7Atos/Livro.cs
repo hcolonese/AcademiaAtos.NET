@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ListaExercicios7Atos
 {
-    internal class Livro
+    public class Livro
     {
         private string nome;
         private string categoria;
@@ -17,17 +17,11 @@ namespace ListaExercicios7Atos
             this.nome = nome;
             this.categoria = categoria;
             this.dataLancamento = dataLancamento;
+            Console.WriteLine("Livro criado com sucesso!");
         }
-        public string GetNome() {
-            return this.nome;
-        }
-        public string GetCategoria()
-        {
-            return this.categoria;
-        }
-        public string GetDataLancamento()
-        {
-            return this.dataLancamento;
-        }
+
+        public string Nome { get => nome; set => nome = value; }
+        public string Categoria { get => categoria; set => categoria = value; }
+        public string DataLancamento { get => dataLancamento; set => dataLancamento = value; }
     }
 }

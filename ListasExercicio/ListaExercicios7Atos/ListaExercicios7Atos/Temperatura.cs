@@ -8,6 +8,7 @@ namespace ListaExercicios7Atos
 {
     public class Temperatura
     {
+        //Classe criada de exemplo nas aulas
         private double celsius;
 
         public Temperatura()

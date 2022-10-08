@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace ListaExercicios7Atos
 {
-    internal class Aviao
+    public class Aviao
     {
+        //Classe criada de exemplo nas aulas
         private string modelo;
         private string marca;
         private float velocidade;

@@ -4,81 +4,50 @@
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Apresentando classes");
-            //Lampada l1 = new Lampada();
-            //l1.ligar();
-            //l1.estaLigada();
-            //l1.desligar();
-            //l1.estaLigada();
+            //Exercicio 1
+            //string nome, categoria, dataLancamento;
+            //Console.WriteLine("Digite o nome do livro: ");
+            //nome = Console.ReadLine();
+            //Console.WriteLine("Digite a categoria do livro: ");
+            //categoria = Console.ReadLine();
+            //Console.WriteLine("Digite a data de lançamento do livro: ");
+            //dataLancamento = Console.ReadLine();
+            //Livro livro = new Livro(nome,categoria,dataLancamento);
+            //Console.WriteLine("Nome do livro criado é: "+livro.Nome);
+            //Console.WriteLine("Da categoria: " + livro.Categoria);
+            //Console.WriteLine("Lançado no dia: " + livro.DataLancamento);
 
-            //TransacaoBancaria t1 = new TransacaoBancaria("3333","PIX","6458-7",10.5F);
-            //t1.Depositar(500.50F);
-            //Console.WriteLine(t1.ConsultarSaldo());
-            //t1.Sacar(200.0F);
-            //t1.ExibirDados();
-
-            //Aviao a1 = new Aviao(500F,1000F);
-            //a1.Acelerar(40.5F);
-            //a1.Reduzir(20.5F);
-            //a1.Subir(10000);
-            //a1.Descer(5000);
-
-            //Livro l1 = new Livro("nome1","categoria1","06/10/2022");
-            //Console.WriteLine(l1.GetNome());
-            //Console.WriteLine(l1.GetCategoria());
-            //Console.WriteLine(l1.GetDataLancamento());
-
-            //Pessoa p1 = new Pessoa("Henrique", "Masculino", 23, 85.5F);
-            //Console.WriteLine(p1.GetNome());
-            //Console.WriteLine(p1.GetSexo());
-            //Console.WriteLine(p1.GetIdade());
-            //Console.WriteLine(p1.GetPeso());
-
-            //Carro c1 = new Carro();
-            //c1.Ligar();
-            //Console.WriteLine(c1.Modelo);
-            //c1.Modelo = "NOVO MODELO";
-            //Console.WriteLine(c1.Modelo);
-            //if (c1.GetLigado())
+            //Exercicio 2
+            //Console.WriteLine("Digite o nome da pessoa: ");
+            //string nome = Console.ReadLine();
+            //Console.WriteLine("Digite o sexo da pessoa (M/F): ");
+            //string sexo = Console.ReadLine();
+            //while(sexo!="M" && sexo != "F")
             //{
-            //    Console.WriteLine("Esta ligado");
+            //    Console.WriteLine("Entrada inválida, digite novamente (M/F):");
+            //    sexo = Console.ReadLine();
             //}
-            //else
-            //    Console.WriteLine("Está desligado");
-
-            //Temperatura temp = new Temperatura();
-            //Console.WriteLine("Digite a temperatura em Fahrenheit");
-            //temp.setCelsius(double.Parse(Console.ReadLine()));
-            //Console.WriteLine("Atemperatura em Fahrenheit novamente é: " + temp.getFahrenheit());
-            //Cliente c1 = new Cliente("Henrique", 23);
-            //TransacaoBancaria t1 = new TransacaoBancaria("3333", "PIX", "6458-7", c1, 500.5F);
-            //while (true)
+            //Console.WriteLine("Digite a idade da pessoa: ");
+            //int idade = int.Parse(Console.ReadLine());
+            //while (idade<=0)
             //{
-            //Console.WriteLine("Nome do Cliente é: "+t1.Cliente.GetNome());
-            //Console.WriteLine("Digite 1 para sacar, 2 para depositar, 3 para consultar o saldo e 0 para sair:");
-            //    {
-            //        int op = int.Parse(Console.ReadLine());
-            //        switch (op)
-            //        {
-            //            case 1:
-            //                Console.WriteLine("Digite o valor do saque: ");
-            //                t1.Sacar(float.Parse(Console.ReadLine()));
-            //                break;
-            //            case 2:
-            //                Console.WriteLine("Digite o valor do depósito: ");
-            //                t1.Depositar(float.Parse(Console.ReadLine()));
-            //                break;
-            //            case 3:
-            //                Console.WriteLine("Seu saldo é: "+t1.ConsultarSaldo());
-            //                break;
-            //            default:
-            //                return;
-
-            //        }
-            //    }
-
+            //    Console.WriteLine("Entrada inválida, idade deve ser maior que 0, digite novamente:");
+            //    idade = int.Parse(Console.ReadLine());
             //}
+            //Console.WriteLine("Digite o peso da pessoa: ");
+            //float peso = float.Parse(Console.ReadLine());
+            //while (peso <= 0)
+            //{
+            //    Console.WriteLine("Entrada inválida, peso deve ser maior que 0, digite novamente:");
+            //    peso = float.Parse(Console.ReadLine());
+            //}
+            //Pessoa pessoa = new Pessoa(nome, sexo, idade, peso);
+            //Console.WriteLine("Nome da pessoa é: " + pessoa.Nome);
+            //Console.WriteLine("Do sexo: " + pessoa.GetStringSexo());
+            //Console.WriteLine("Com " + pessoa.Idade+ " anos");
+            //Console.WriteLine("Pesando " + pessoa.Peso + " kgs");
 
+            // Exercicio 3
             Cliente cliente1 = new Cliente("Henrique", 23);
             Carro carro1 = new Carro("LKK1634", "Vinho", "Jeep", 0.00F);
             Carro carro2 = new Carro("OQF0823", "Laranja", "Jeep", 0.00F);

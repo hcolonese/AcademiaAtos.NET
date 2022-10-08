@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace ListaExercicios7Atos
 {
-    internal class Pessoa
+    public class Pessoa
     {
-        private string nome;
-        private string sexo;
+        private string nome,sexo;
         private int idade;
         private float peso;
 
@@ -19,22 +18,22 @@ namespace ListaExercicios7Atos
             this.sexo = sexo;
             this.idade = idade;
             this.peso = peso;
+            Console.WriteLine("Pessoa criada com sucesso!");
         }
-        public string GetNome()
+
+        public string Nome { get => nome; set => nome = value; }
+        public string Sexo { get => sexo; set => sexo = value; }
+        public int Idade { get => idade; set => idade = value; }
+        public float Peso { get => peso; set => peso = value; }
+
+        public string GetStringSexo()
         {
-            return this.nome;
-        }
-        public string GetSexo()
-        {
-            return this.sexo;
-        }
-        public int GetIdade()
-        {
-            return this.idade;
-        }
-        public float GetPeso()
-        {
-            return this.peso;
+            if (sexo == "F")
+            {
+                return "Feminino";
+            }
+            else
+                return "Masculino";
         }
     }
 }
