@@ -1,0 +1,15 @@
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosDicionario\MetodosDicionario\bin\Debug\net6.0\MetodosDicionario.exe
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosDicionario\MetodosDicionario\bin\Debug\net6.0\MetodosDicionario.deps.json
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosDicionario\MetodosDicionario\bin\Debug\net6.0\MetodosDicionario.runtimeconfig.json
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosDicionario\MetodosDicionario\bin\Debug\net6.0\MetodosDicionario.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosDicionario\MetodosDicionario\bin\Debug\net6.0\MetodosDicionario.pdb
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosDicionario\MetodosDicionario\obj\Debug\net6.0\MetodosDicionario.csproj.AssemblyReference.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosDicionario\MetodosDicionario\obj\Debug\net6.0\MetodosDicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosDicionario\MetodosDicionario\obj\Debug\net6.0\MetodosDicionario.AssemblyInfoInputs.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosDicionario\MetodosDicionario\obj\Debug\net6.0\MetodosDicionario.AssemblyInfo.cs
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosDicionario\MetodosDicionario\obj\Debug\net6.0\MetodosDicionario.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosDicionario\MetodosDicionario\obj\Debug\net6.0\MetodosDicionario.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosDicionario\MetodosDicionario\obj\Debug\net6.0\refint\MetodosDicionario.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosDicionario\MetodosDicionario\obj\Debug\net6.0\MetodosDicionario.pdb
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosDicionario\MetodosDicionario\obj\Debug\net6.0\MetodosDicionario.genruntimeconfig.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosDicionario\MetodosDicionario\obj\Debug\net6.0\ref\MetodosDicionario.dll

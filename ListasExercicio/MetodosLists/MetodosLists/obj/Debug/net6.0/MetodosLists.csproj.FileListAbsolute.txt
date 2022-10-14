@@ -1,0 +1,15 @@
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosLists\MetodosLists\obj\Debug\net6.0\MetodosLists.csproj.AssemblyReference.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosLists\MetodosLists\obj\Debug\net6.0\MetodosLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosLists\MetodosLists\obj\Debug\net6.0\MetodosLists.AssemblyInfoInputs.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosLists\MetodosLists\obj\Debug\net6.0\MetodosLists.AssemblyInfo.cs
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosLists\MetodosLists\obj\Debug\net6.0\MetodosLists.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosLists\MetodosLists\bin\Debug\net6.0\MetodosLists.exe
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosLists\MetodosLists\bin\Debug\net6.0\MetodosLists.deps.json
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosLists\MetodosLists\bin\Debug\net6.0\MetodosLists.runtimeconfig.json
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosLists\MetodosLists\bin\Debug\net6.0\MetodosLists.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosLists\MetodosLists\bin\Debug\net6.0\MetodosLists.pdb
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosLists\MetodosLists\obj\Debug\net6.0\MetodosLists.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosLists\MetodosLists\obj\Debug\net6.0\refint\MetodosLists.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosLists\MetodosLists\obj\Debug\net6.0\MetodosLists.pdb
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosLists\MetodosLists\obj\Debug\net6.0\MetodosLists.genruntimeconfig.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\MetodosLists\MetodosLists\obj\Debug\net6.0\ref\MetodosLists.dll
