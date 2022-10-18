@@ -1,0 +1,15 @@
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios8Atos\ListaExercicios8Atos\bin\Debug\net6.0\ListaExercicios8Atos.exe
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios8Atos\ListaExercicios8Atos\bin\Debug\net6.0\ListaExercicios8Atos.deps.json
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios8Atos\ListaExercicios8Atos\bin\Debug\net6.0\ListaExercicios8Atos.runtimeconfig.json
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios8Atos\ListaExercicios8Atos\bin\Debug\net6.0\ListaExercicios8Atos.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios8Atos\ListaExercicios8Atos\bin\Debug\net6.0\ListaExercicios8Atos.pdb
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios8Atos\ListaExercicios8Atos\obj\Debug\net6.0\ListaExercicios8Atos.csproj.AssemblyReference.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios8Atos\ListaExercicios8Atos\obj\Debug\net6.0\ListaExercicios8Atos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios8Atos\ListaExercicios8Atos\obj\Debug\net6.0\ListaExercicios8Atos.AssemblyInfoInputs.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios8Atos\ListaExercicios8Atos\obj\Debug\net6.0\ListaExercicios8Atos.AssemblyInfo.cs
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios8Atos\ListaExercicios8Atos\obj\Debug\net6.0\ListaExercicios8Atos.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios8Atos\ListaExercicios8Atos\obj\Debug\net6.0\ListaExercicios8Atos.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios8Atos\ListaExercicios8Atos\obj\Debug\net6.0\refint\ListaExercicios8Atos.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios8Atos\ListaExercicios8Atos\obj\Debug\net6.0\ListaExercicios8Atos.pdb
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios8Atos\ListaExercicios8Atos\obj\Debug\net6.0\ListaExercicios8Atos.genruntimeconfig.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios8Atos\ListaExercicios8Atos\obj\Debug\net6.0\ref\ListaExercicios8Atos.dll

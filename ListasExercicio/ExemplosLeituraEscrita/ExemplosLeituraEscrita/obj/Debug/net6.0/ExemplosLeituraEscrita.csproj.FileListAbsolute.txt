@@ -1,0 +1,15 @@
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ExemplosLeituraEscrita\ExemplosLeituraEscrita\bin\Debug\net6.0\ExemplosLeituraEscrita.exe
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ExemplosLeituraEscrita\ExemplosLeituraEscrita\bin\Debug\net6.0\ExemplosLeituraEscrita.deps.json
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ExemplosLeituraEscrita\ExemplosLeituraEscrita\bin\Debug\net6.0\ExemplosLeituraEscrita.runtimeconfig.json
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ExemplosLeituraEscrita\ExemplosLeituraEscrita\bin\Debug\net6.0\ExemplosLeituraEscrita.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ExemplosLeituraEscrita\ExemplosLeituraEscrita\bin\Debug\net6.0\ExemplosLeituraEscrita.pdb
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ExemplosLeituraEscrita\ExemplosLeituraEscrita\obj\Debug\net6.0\ExemplosLeituraEscrita.csproj.AssemblyReference.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ExemplosLeituraEscrita\ExemplosLeituraEscrita\obj\Debug\net6.0\ExemplosLeituraEscrita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ExemplosLeituraEscrita\ExemplosLeituraEscrita\obj\Debug\net6.0\ExemplosLeituraEscrita.AssemblyInfoInputs.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ExemplosLeituraEscrita\ExemplosLeituraEscrita\obj\Debug\net6.0\ExemplosLeituraEscrita.AssemblyInfo.cs
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ExemplosLeituraEscrita\ExemplosLeituraEscrita\obj\Debug\net6.0\ExemplosLeituraEscrita.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ExemplosLeituraEscrita\ExemplosLeituraEscrita\obj\Debug\net6.0\ExemplosLeituraEscrita.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ExemplosLeituraEscrita\ExemplosLeituraEscrita\obj\Debug\net6.0\refint\ExemplosLeituraEscrita.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ExemplosLeituraEscrita\ExemplosLeituraEscrita\obj\Debug\net6.0\ExemplosLeituraEscrita.pdb
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ExemplosLeituraEscrita\ExemplosLeituraEscrita\obj\Debug\net6.0\ExemplosLeituraEscrita.genruntimeconfig.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ExemplosLeituraEscrita\ExemplosLeituraEscrita\obj\Debug\net6.0\ref\ExemplosLeituraEscrita.dll

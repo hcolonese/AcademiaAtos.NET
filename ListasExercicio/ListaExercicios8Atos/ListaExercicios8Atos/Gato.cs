@@ -6,20 +6,17 @@ using System.Threading.Tasks;
 
 namespace ListaExercicios8Atos
 {
-    class Gato : Animal
+    public class Gato
     {
-        public Gato(string nome, string sexo, string raca) : base(nome, sexo, raca) { }
-        public override void EmitirSom()
+        private string _nome, _cor;
+
+        public Gato(string nome, string cor)
         {
-            Console.WriteLine("Miado");
+            this._nome = nome;
+            this._cor = cor;
         }
-        public override void Dormir()
-        {
-            Console.WriteLine("Gato Dormindo");
-        }
-        public override void Caminhar()
-        {
-            Console.WriteLine("Gato Caminhando");
-        }
+
+        public string Nome { get => _nome; set => _nome = value; }
+        public string Cor { get => _cor; set => _cor = value; }
     }
 }
