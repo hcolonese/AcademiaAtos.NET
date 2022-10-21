@@ -1,0 +1,15 @@
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios9Atos\ListaExercicios9Atos\obj\Debug\net6.0\ListaExercicios9Atos.csproj.AssemblyReference.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios9Atos\ListaExercicios9Atos\obj\Debug\net6.0\ListaExercicios9Atos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios9Atos\ListaExercicios9Atos\obj\Debug\net6.0\ListaExercicios9Atos.AssemblyInfoInputs.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios9Atos\ListaExercicios9Atos\obj\Debug\net6.0\ListaExercicios9Atos.AssemblyInfo.cs
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios9Atos\ListaExercicios9Atos\obj\Debug\net6.0\ListaExercicios9Atos.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios9Atos\ListaExercicios9Atos\bin\Debug\net6.0\ListaExercicios9Atos.exe
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios9Atos\ListaExercicios9Atos\bin\Debug\net6.0\ListaExercicios9Atos.deps.json
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios9Atos\ListaExercicios9Atos\bin\Debug\net6.0\ListaExercicios9Atos.runtimeconfig.json
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios9Atos\ListaExercicios9Atos\bin\Debug\net6.0\ListaExercicios9Atos.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios9Atos\ListaExercicios9Atos\bin\Debug\net6.0\ListaExercicios9Atos.pdb
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios9Atos\ListaExercicios9Atos\obj\Debug\net6.0\ListaExercicios9Atos.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios9Atos\ListaExercicios9Atos\obj\Debug\net6.0\refint\ListaExercicios9Atos.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios9Atos\ListaExercicios9Atos\obj\Debug\net6.0\ListaExercicios9Atos.pdb
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios9Atos\ListaExercicios9Atos\obj\Debug\net6.0\ListaExercicios9Atos.genruntimeconfig.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios9Atos\ListaExercicios9Atos\obj\Debug\net6.0\ref\ListaExercicios9Atos.dll

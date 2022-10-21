@@ -102,9 +102,8 @@ namespace ListaExercicios8Atos
             //}
 
             //Exercicio 6
-            //fazer menu ainda
             List<Funcionario> listaFuncionario = new List<Funcionario>();
-            Funcionario f = new Gerente();
+            Funcionario f = new Gerente(), funcionarioBusca = new Gerente();
             string nome, depto, rg, nomeBusca="";
             int op;
             double salario, aumento;
@@ -132,33 +131,43 @@ namespace ListaExercicios8Atos
                         if (cargo == 1)
                         {
                             f = new Gerente(nome, depto, data, rg, salario, true);
-                            listaFuncionario.Add(f);
                         }
                         else if (cargo == 2)
                         {
                             f = new Operador(nome, depto, data, rg, salario, true);
-                            listaFuncionario.Add(f);
                         }
+                        listaFuncionario.Add(f);
                         break;
                     case 2:
                         Console.WriteLine("Digite o nome do funcionário que deseja aumentar o salário:");
                         nomeBusca = Console.ReadLine();
-                        Funcionario funcionarioAumento = listaFuncionario.Find(delegate (Funcionario f) { return f.Nome == nomeBusca; });
+                        funcionarioBusca = listaFuncionario.Find(delegate (Funcionario f) { return f.Nome == nomeBusca; });
+                        if(funcionarioBusca == null)
+                        {
+                            Console.WriteLine("Funcionário não encontrado");
+                            break;
+                        }
                         Console.WriteLine("Em quanto deseja aumentar o salário? ");
                         aumento = int.Parse(Console.ReadLine());
-                        funcionarioAumento.Bonifica(aumento);
+                        funcionarioBusca.Bonifica(aumento);
                         break;
                     case 3:
                         Console.WriteLine("Digite o nome do funcionário que deseja demitir:");
                         nomeBusca = Console.ReadLine();
-                        Funcionario funcionarioDemissao = listaFuncionario.Find(delegate (Funcionario f) { return f.Nome == nomeBusca; });
-                        funcionarioDemissao.Demite();
+                        funcionarioBusca = listaFuncionario.Find(delegate (Funcionario f) { return f.Nome == nomeBusca; });
+                        if (funcionarioBusca == null)
+                        {
+                            Console.WriteLine("Funcionário não encontrado");
+                            break;
+                        }
+                        funcionarioBusca.Demite();
                         break;
                     case 4:
                         Console.WriteLine("------------");
                         foreach(Funcionario funcio in listaFuncionario)
                         {
                             funcio.MostraDados();
+                            funcio.ExecutaTrabalho();
                             Console.WriteLine("------------");
                         }
                         break;
