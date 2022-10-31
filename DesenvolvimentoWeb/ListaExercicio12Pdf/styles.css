@@ -1,0 +1,101 @@
+
+.n1div1{
+    padding: 15px;
+    background-color: blue;
+}
+.n1div2{
+    padding: 15px;
+    background-color: red;
+}
+.n1div3{
+    padding: 15px;
+    background-color: green;
+}
+.n1div4{
+    padding: 15px;
+    background-color: purple;
+}
+
+#upperLeft{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    background-color: blue;
+    padding: 15px;
+    border-radius: 50%;
+}
+#upperRight{
+    position: absolute;
+    top: 5%;
+    left: 75%;
+    background-color: purple;
+    padding: 15px;
+    border-radius: 50%;
+}
+#lowerLeft{
+    position: absolute;
+    top: 75%;
+    left: 5%;
+    background-color: red;
+    padding: 15px;
+    border-radius: 50%;
+}
+#lowerRight{
+    position: absolute;
+    top: 75%;
+    left: 75%;
+    background-color: green;
+    padding: 15px;
+    border-radius: 50%;
+}
+
+.num4{
+    border-width: thick;
+    border-style: solid;
+    border-color: green;
+}
+.items{
+    padding-left: 25px;
+    color: yellow;
+    background-color: gray;
+}
+.n1item1{
+
+    padding-left: 25px;
+    color: yellow;
+    background-color: gray;
+}
+.n1item2{
+    padding-left: 25px;
+    color: yellow;
+    background-color: gray;
+}
+.n1item2 h1:hover{
+    width: 88px;
+    background-color: yellow;
+    color: gray;
+}
+.n1item3{
+    padding-left: 25px;
+    color: yellow;
+    background-color: gray;s
+}
+
+.num5{
+    width: 900px;
+    height:360px;
+    background-color: gray;
+}
+
+.foto img{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+.num5 p{
+    width: 350px;
+    color: white;
+    position: absolute;
+    top:20px;
+    left: 550px;
+}

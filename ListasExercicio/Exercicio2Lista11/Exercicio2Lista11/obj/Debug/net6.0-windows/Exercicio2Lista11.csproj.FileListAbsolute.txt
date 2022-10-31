@@ -1,0 +1,17 @@
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\Exercicio2Lista11\Exercicio2Lista11\obj\Debug\net6.0-windows\Exercicio2Lista11.csproj.AssemblyReference.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\Exercicio2Lista11\Exercicio2Lista11\obj\Debug\net6.0-windows\Exercicio2Lista11.csproj.GenerateResource.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\Exercicio2Lista11\Exercicio2Lista11\obj\Debug\net6.0-windows\Exercicio2Lista11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\Exercicio2Lista11\Exercicio2Lista11\obj\Debug\net6.0-windows\Exercicio2Lista11.AssemblyInfoInputs.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\Exercicio2Lista11\Exercicio2Lista11\obj\Debug\net6.0-windows\Exercicio2Lista11.AssemblyInfo.cs
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\Exercicio2Lista11\Exercicio2Lista11\obj\Debug\net6.0-windows\Exercicio2Lista11.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\Exercicio2Lista11\Exercicio2Lista11\bin\Debug\net6.0-windows\Exercicio2Lista11.exe
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\Exercicio2Lista11\Exercicio2Lista11\bin\Debug\net6.0-windows\Exercicio2Lista11.deps.json
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\Exercicio2Lista11\Exercicio2Lista11\bin\Debug\net6.0-windows\Exercicio2Lista11.runtimeconfig.json
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\Exercicio2Lista11\Exercicio2Lista11\bin\Debug\net6.0-windows\Exercicio2Lista11.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\Exercicio2Lista11\Exercicio2Lista11\bin\Debug\net6.0-windows\Exercicio2Lista11.pdb
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\Exercicio2Lista11\Exercicio2Lista11\obj\Debug\net6.0-windows\Exercicio2Lista11.Exercicio2.resources
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\Exercicio2Lista11\Exercicio2Lista11\obj\Debug\net6.0-windows\Exercicio2Lista11.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\Exercicio2Lista11\Exercicio2Lista11\obj\Debug\net6.0-windows\refint\Exercicio2Lista11.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\Exercicio2Lista11\Exercicio2Lista11\obj\Debug\net6.0-windows\Exercicio2Lista11.pdb
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\Exercicio2Lista11\Exercicio2Lista11\obj\Debug\net6.0-windows\Exercicio2Lista11.genruntimeconfig.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\Exercicio2Lista11\Exercicio2Lista11\obj\Debug\net6.0-windows\ref\Exercicio2Lista11.dll

@@ -6,6 +6,9 @@ namespace ListaExercicios9Atos
     {
         static void Main(string[] args)
         {
+            //Exemplo de concatenação de string
+            //string displayName = $"{nameList[n].LastName}, {nameList[n].FirstName}";
+            
             //Exercicio 1
             //const string filePath = @"C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\ListaExercicios9Atos\ListaExercicios9Atos\pessoas.csv";
             //string[] tamNome;
