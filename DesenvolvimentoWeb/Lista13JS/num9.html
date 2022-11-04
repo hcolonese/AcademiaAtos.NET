@@ -1,0 +1,58 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Número 9</title>
+</head>
+<body id="body">
+    <form id="form" method="post" onsubmit="return verifyData()">
+        <label for="fname">Nome</label>
+        <input type="text" name="fname" required><br>
+        <label for="fpassword">Senha</label>
+        <input type="password" id="password" name="fpassword" required><br>
+        <label for="cpassword">Confirme sua Senha</label>
+        <input type="password" id="cPassword" name="fconfirmpassword" required><br>
+        <input type="submit" id="submit">
+    </form>
+</body>
+<script>
+    function verifyData(){
+        let pass = document.getElementById("password").value
+        let confirmationPass = document.getElementById("cPassword").value
+        let form = document.getElementById("form")
+        if(pass.length<6 || pass.length>10){
+            alert("Senha deve conter entre 6 e 10 caracteres!")
+            return false
+        }
+        else if(pass!=confirmationPass){
+            alert("Senha e Senha de confirmação devem ser iguais!")
+            return false
+        }
+        else
+            return true
+    }
+    let box = document.getElementsByClassName('box');
+    var btnSubmit = document.getElementById("submit");
+    let cont = [0,0,0]
+    let quant = 0
+    function checkBox(i){
+        if (box[i].checked == true){
+            cont[i] = 1;
+        }
+        else {
+            cont[i] = 0;
+        }
+        let show = contagem()
+        console.log(show)
+        if (show>=2){
+            document.getElementById("submit").disabled = false;
+        } else {
+            document.getElementById("submit").disabled = true;
+        }
+    }
+
+
+</script>
+</html>

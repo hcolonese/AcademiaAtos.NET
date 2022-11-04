@@ -1,0 +1,49 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Número 6, 7 e 8</title>
+</head>
+<body id="body" style="background-color: salmon;">
+    <p id="text" style="font-size: 15px;">Texto que será alterado</p>
+    <button type="button" id="button" onclick="AlteraCorFonte('white')">Cor fonte Branca</button><br>
+    <button type="button" id="button" onclick="AlteraCorFonte('black')">Cor fonte Preta</button><br>
+    <button type="button" id="button" onclick="AlteraCorFundo('green')">Cor fundo Verde</button><br>
+    <button type="button" id="button" onclick="AlteraCorFundo('salmon')">Cor fundo Salmão</button><br>
+    <button type="button" id="button" onclick="AlteraTamanhoFonte('+')">Aumentar fonte (+)</button><br>
+    <button type="button" id="button" onclick="AlteraTamanhoFonte('-')">Diminuir fonte (-)</button><br>
+    <button type="button" id="button" onclick="AlteraFonteUpperLower('-')">Texto todo minusculo</button><br>
+    <button type="button" id="button" onclick="AlteraFonteUpperLower('+')">Texto todo MAIUSCULO</button><br>
+</body>
+<script>
+    function AlteraCorFonte(c){
+        var text = document.getElementById("text");
+        text.style.color = c
+    }
+    function AlteraCorFundo(c){
+        document.getElementById("body").style.backgroundColor = c;
+    }
+    function AlteraTamanhoFonte(op){  
+        text = document.getElementById("text");
+        style = window.getComputedStyle(text, null).getPropertyValue('font-size');
+        currentSize = parseFloat(style);
+        if(op=="+"){
+            text.style.fontSize = (currentSize + 1) + 'px';
+        }
+        if(op=="-"){
+            text.style.fontSize = (currentSize - 1) + 'px';
+        }
+    }
+    function AlteraFonteUpperLower(op){ 
+        var x = document.getElementById("text").innerHTML;
+        if(op=="+"){
+            document.getElementById("text").innerHTML =x.toUpperCase() ;
+        }
+        if(op=="-"){
+            document.getElementById("text").innerHTML =x.toLowerCase() ;
+        }
+    }
+</script>
+</html>

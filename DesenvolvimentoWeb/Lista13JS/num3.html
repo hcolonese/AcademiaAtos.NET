@@ -1,0 +1,57 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Número 3</title>
+</head>
+<body id="body">
+    <input type="radio" id="btn" name="color" class="radioColor" value="blue">    
+    <label for="blue" >Azul</label><br>
+    <input type="radio" id="btn" name="color" class="radioColor" value="green">    
+    <label for="green" >Verde</label><br>
+    <input type="radio" id="btn" name="color" class="radioColor" value="yellow">    
+    <label for="yellow" >Amarelo</label><br>
+    <input type="radio" id="btn" name="color" class="radioColor" value="red">    
+    <label for="red" >Vermelho</label><br>
+</body>
+<script>
+
+    let radioButtons = document.getElementsByClassName('radioColor')
+    console.log(radioButtons)
+    window.onload = function () {
+        for (let i = 0; i < radioButtons.length; i++) {
+            if (radioButtons[0].checked == true) {
+                document.body.style.backgroundColor = "blue"
+            }
+            if (radioButtons[1].checked == true) {
+                document.body.style.backgroundColor = "green"
+            }
+            if (radioButtons[2].checked == true) {
+                document.body.style.backgroundColor = "yellow"
+            }
+            if (radioButtons[3].checked == true) {
+                document.body.style.backgroundColor = "red"
+            }
+        }
+    }
+    for (let i = 0; i < radioButtons.length; i++) {
+        radioButtons[i].addEventListener('change', function (e) {
+            if (e.target.value == "blue") {
+                document.body.style.backgroundColor = "blue"
+            }
+            console.log(e)
+            if (e.target.value == "green") {
+                document.body.style.backgroundColor = "green"
+            }
+            if (e.target.value == "yellow") {
+                document.body.style.backgroundColor = "yellow"
+            }
+            if (e.target.value == "red") {
+                document.body.style.backgroundColor = "red"
+            }
+        })
+    }
+</script>
+</html>

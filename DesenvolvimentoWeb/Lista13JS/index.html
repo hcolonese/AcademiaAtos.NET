@@ -1,0 +1,26 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Número 1</title>
+</head>
+<body id="body">
+        <form>
+            <button type="button" id="btn" onclick="changeColor('blue')">Azul</button>
+            <button type="button" id="btn" onclick="changeColor('green')">Verde</button>
+            <button type="button" id="btn" onclick="changeColor('yellow')">Amarelo</button>
+            <button type="button" id="btn" onclick="changeColor('red')">Vermelho</button>
+        </form>
+</body>
+<script>
+
+    function changeColor(s){
+        document.getElementById("body").style.backgroundColor = s;
+    };
+    btn.addEventListener('click', function onClick(event) {
+    event.target.style.backgroundColor = 'salmon';
+});
+</script>
+</html>
