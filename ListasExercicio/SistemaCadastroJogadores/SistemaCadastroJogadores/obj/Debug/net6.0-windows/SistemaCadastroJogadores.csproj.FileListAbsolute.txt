@@ -1,0 +1,17 @@
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\SistemaCadastroJogadores\SistemaCadastroJogadores\bin\Debug\net6.0-windows\SistemaCadastroJogadores.exe
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\SistemaCadastroJogadores\SistemaCadastroJogadores\bin\Debug\net6.0-windows\SistemaCadastroJogadores.deps.json
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\SistemaCadastroJogadores\SistemaCadastroJogadores\bin\Debug\net6.0-windows\SistemaCadastroJogadores.runtimeconfig.json
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\SistemaCadastroJogadores\SistemaCadastroJogadores\bin\Debug\net6.0-windows\SistemaCadastroJogadores.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\SistemaCadastroJogadores\SistemaCadastroJogadores\bin\Debug\net6.0-windows\SistemaCadastroJogadores.pdb
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\SistemaCadastroJogadores\SistemaCadastroJogadores\obj\Debug\net6.0-windows\SistemaCadastroJogadores.csproj.AssemblyReference.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\SistemaCadastroJogadores\SistemaCadastroJogadores\obj\Debug\net6.0-windows\SistemaCadastroJogadores.Form1.resources
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\SistemaCadastroJogadores\SistemaCadastroJogadores\obj\Debug\net6.0-windows\SistemaCadastroJogadores.csproj.GenerateResource.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\SistemaCadastroJogadores\SistemaCadastroJogadores\obj\Debug\net6.0-windows\SistemaCadastroJogadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\SistemaCadastroJogadores\SistemaCadastroJogadores\obj\Debug\net6.0-windows\SistemaCadastroJogadores.AssemblyInfoInputs.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\SistemaCadastroJogadores\SistemaCadastroJogadores\obj\Debug\net6.0-windows\SistemaCadastroJogadores.AssemblyInfo.cs
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\SistemaCadastroJogadores\SistemaCadastroJogadores\obj\Debug\net6.0-windows\SistemaCadastroJogadores.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\SistemaCadastroJogadores\SistemaCadastroJogadores\obj\Debug\net6.0-windows\SistemaCadastroJogadores.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\SistemaCadastroJogadores\SistemaCadastroJogadores\obj\Debug\net6.0-windows\refint\SistemaCadastroJogadores.dll
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\SistemaCadastroJogadores\SistemaCadastroJogadores\obj\Debug\net6.0-windows\SistemaCadastroJogadores.pdb
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\SistemaCadastroJogadores\SistemaCadastroJogadores\obj\Debug\net6.0-windows\SistemaCadastroJogadores.genruntimeconfig.cache
+C:\Users\Henrique\OneDrive\Documentos\AcademiaAtos\AcademiaAtos.NET\ListasExercicio\SistemaCadastroJogadores\SistemaCadastroJogadores\obj\Debug\net6.0-windows\ref\SistemaCadastroJogadores.dll
