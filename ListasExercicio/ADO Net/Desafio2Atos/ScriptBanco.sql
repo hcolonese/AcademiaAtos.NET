@@ -1,0 +1,85 @@
+create database desafio_2;
+
+use [desafio_2];
+
+create table Fornecedor (
+	idFornecedor int not null identity,
+	nome varchar(30) not null,
+	email varchar(30) not null,
+	endereco varchar(40) not null,
+
+	primary key (idFornecedor)
+);
+
+create table Produto (
+	idProduto int not null identity,
+	nome varchar(30) not null,
+	descricao varchar(50) not null,
+	preco float not null,
+	quantidade int not null,
+	idFornecedor int not null,
+
+	primary key (idProduto),
+	constraint fk_Fornecedor_Produto
+	foreign key (idFornecedor)
+	references Fornecedor (idFornecedor)
+	on delete cascade
+	on update cascade
+);
+
+
+create table Cliente (
+	idCliente int not null identity,
+	nome varchar(30) not null,
+	email varchar(30) not null,
+	cidade varchar(30) not null,
+	cpf varchar(20) not null,
+
+	primary key (idCliente)
+);
+
+create table NotaFiscal (
+	idNota int not null identity,
+	dataEmissao date not null, 
+	idProduto int not null,
+	idCliente int not null,
+
+	primary key (idNota),
+	constraint fk_Produto_Nota
+	foreign key (idProduto)
+	references Produto (idProduto)
+	on delete cascade
+	on update cascade,
+
+	constraint fk_Cliente_Nota
+	foreign key (idCliente)
+	references Cliente (idCliente)
+	on delete cascade
+	on update cascade
+);
+
+insert into Fornecedor values ('Marcos', 'marcos@fornecedor.com','Av. Paulista, 876');
+insert into Fornecedor values ('Antônio', 'antonio@fornecedor.com','Alameda dos Passáros, 876');
+insert into Fornecedor values ('Júlia', 'julia@fornecedora.com','Av. Rio Branco, 876');
+insert into Fornecedor values ('Eduarda', 'eduarda@fornecedora.com','Av. Paraíba, 876');
+
+insert into Cliente values ('Sérgio', 'sergio@cliente.com','Goiânia','165745896-30');
+insert into Cliente values ('Roberta', 'roberta@cliente.com','Rio de Janeiro','163459852-30');
+insert into Cliente values ('Jorge', 'jorge@cliente.com','São Paulo','264951357-30');
+insert into Cliente values ('Zeca', 'zeca@cliente.com','Londrina','357951654-30');
+
+insert into Produto values ('NoteBook', 'Bom computador, i5', 3500, 5,1);
+insert into Produto values ('MacBook', 'Muito bom computador, M1', 8645, 2,2);
+insert into Produto values ('Desktop', 'Ótimo computador, i9', 21890, 3,3);
+insert into Produto values ('Ipad', 'Bom estado, 2020', 5700, 8,4);
+
+insert into NotaFiscal values ('2022-06-10', 1, 1);
+insert into NotaFiscal values ('2022-06-10', 1, 2);
+insert into NotaFiscal values ('2022-06-10', 2, 4);
+insert into NotaFiscal values ('2022-06-10', 2, 3);
+insert into NotaFiscal values ('2022-06-10', 3, 4);
+
+select * from Fornecedor;
+select * from Cliente;
+select * from Produto;
+select * from NotaFiscal;
