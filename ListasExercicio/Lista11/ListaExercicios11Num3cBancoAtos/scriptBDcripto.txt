@@ -1,0 +1,16 @@
+create database criptoMoedas_db;
+
+use [criptoMoedas_db];
+
+CREATE TABLE Moeda (
+  idMoeda INT NOT NULL IDENTITY,
+  sigla VARCHAR(3) NOT NULL,
+  nome VARCHAR(30) NOT NULL,
+  valorUnidade FLOAT NOT NULL,
+  
+  PRIMARY KEY (idMoeda)
+);
+
+INSERT INTO Moeda VALUES('BTC','BitCoin', 500.45);
+INSERT INTO Moeda VALUES('ETH','Ethereum',354.69);
+INSERT INTO Moeda VALUES('FTX','FTX Coin',279.11);

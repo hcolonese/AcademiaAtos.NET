@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDglisemia", "CRUDglisemia\CRUDglisemia.csproj", "{A3C30781-982B-4FCB-A923-80BBAE1033FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3C30781-982B-4FCB-A923-80BBAE1033FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C30781-982B-4FCB-A923-80BBAE1033FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C30781-982B-4FCB-A923-80BBAE1033FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C30781-982B-4FCB-A923-80BBAE1033FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9AA966C-5ECF-4355-8659-063283506C9D}
+	EndGlobalSection
+EndGlobal

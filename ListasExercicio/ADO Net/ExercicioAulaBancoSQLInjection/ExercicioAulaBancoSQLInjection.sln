@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioAulaBancoSQLInjection", "ExercicioAulaBancoSQLInjection\ExercicioAulaBancoSQLInjection.csproj", "{3E9FA1ED-A216-4F8F-B9D2-073D6ED8FE03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E9FA1ED-A216-4F8F-B9D2-073D6ED8FE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9FA1ED-A216-4F8F-B9D2-073D6ED8FE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9FA1ED-A216-4F8F-B9D2-073D6ED8FE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9FA1ED-A216-4F8F-B9D2-073D6ED8FE03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {044F9366-47B9-4576-B1DE-DE81D7929C7C}
+	EndGlobalSection
+EndGlobal
