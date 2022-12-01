@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WW6Htke58rgZAn4jrRmaUlqemk8WZz2cRNFTKWlLxSvbFpBB1zlqAOMJ60kFuejekDY3VIZ/L7VEH0bRhKAPmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Henrique\\OneDrive\\Documentos\\AcademiaAtos\\AcademiaAtos.NET\\ListasExercicio\\PrimeiroXamarimForm\\PrimeiroXamarimForm\\PrimeiroXamarimForm.iOS\\PrimeiroXamarimForm.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Henrique\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Henrique\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Henrique\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

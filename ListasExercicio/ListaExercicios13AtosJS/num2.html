@@ -1,0 +1,27 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Número 2</title>
+</head>
+<body id="body">
+        <form>
+            <a id="link1" onmouseover="changeColor('blue')"> Azul</a><br>
+            <a id="link2" onmouseover="changeColor('green')"> Verde</a><br>
+            <a id="link3" onmouseover="changeColor('yellow')"> Amarelo</a><br>
+            <a id="link4" onmouseover="changeColor('red')"> Vermelho</a><br>
+        </form>
+</body>
+<script>
+
+    function changeColor(s){
+        if(document.getElementById("link1")){
+            document.getElementById("body").style.backgroundColor = s;
+        }
+        else
+            document.getElementById("body").style.backgroundColor = white;
+    };
+</script>
+</html>

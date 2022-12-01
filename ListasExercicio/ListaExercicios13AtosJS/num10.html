@@ -1,0 +1,81 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Número 10</title>
+</head>
+<body id="body">
+    <form id="form" name="enroll" method="post" onsubmit="return verifyData()">
+        <label for="fname">Nome: </label>
+        <input type="text" name="fname" required><br>
+
+        <label for="fpessoa">Pessoa: </label>
+        <input type="radio" id="btnFisJur"  checked name="fisJur" value="pf">
+        <label for="pf" >Pessoa Física</label>
+        <input type="radio" id="btnFisJur" onclick="fisJur('pj')"  name="fisJur" value="pj">
+        <label for="pf" >Pessoa Jurídica</label><br>
+        <div id="pf">
+            <label for="fcpf">CPF: </label>
+            <input type="text" name="numbers" ><br>
+            <label for="fbirthdate">Data Nascimento: </label>
+            <input type="text" id="fbirthdate" name="numbers" ><br>
+        </div>
+        <div id="pj" style="display: none;">
+            <label for="fcnpj">CNPJ: </label>
+            <input type="text" name="fcnpj" ><br>
+        </div>
+        <label for="fcep">CEP: </label>
+        <input type="text" id="fcep" name="fcep" required><br>
+        <label for="faddress">Endereço: </label>
+        <input type="text" id="faddress" name="faddress" required><br>
+        <label for="ffone">Telefone: </label>
+        <input type="text" id="ffone" name="ffone" required><br>
+        <label for="femail">Email: </label>
+        <input type="text" id="femail" name="femail" required><br>
+
+        <input type="submit" id="submit">
+    </form>
+</body>
+<script>
+    pf = document.getElementById("pf")
+    pj = document.getElementById("pj")
+    var radios = document.forms["enroll"].elements["fisJur"];
+    for(var i = 0, max = radios.length; i < max; i++) {
+        radios[i].onclick = function() {
+            if(this.value=="pf"){
+                pf.style.display = 'block'
+                pj.style.display = 'none'
+            }
+            if(this.value=="pj"){
+                document.getElementById("fbirthdate").value = 0
+                pf.style.display = 'none'
+                pj.style.display = 'block'
+            }
+        }
+    }
+
+    function containsOnlyNumbers(str) {
+        return /^[0-9]+$/.test(str);
+    }
+    function verifyData(){
+        var retorno = true
+        var birthdate = document.getElementById("fbirthdate").value
+        var cep = document.getElementById("fcep").value
+        console.log(birthdate)
+        console.log(cep)
+        if(!containsOnlyNumbers(birthdate)){
+            alert("A data de nascimento deve conter apenas números!")
+            retorno = false
+        }
+        if(!containsOnlyNumbers(cep)){
+            alert("O CEP deve conter apenas números!")
+            retorno = false
+        }
+            return retorno
+        }
+        
+
+</script>
+</html>

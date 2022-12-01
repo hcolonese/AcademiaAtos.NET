@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>Cadastro</title>
+</head>
+<body>
+    <div class="header">
+        <header>
+            <h1>Mercado Natalino</h1>
+        </header>
+    </div>
+    <div class="container">
+        <div class="row nav">
+            <div class="col col-sm"><a href="index.html"><h2>Home</h2></a></div>
+            <div class="col col-sm"><a href="produtos.html"><h2>Produtos</h2></a></div>
+            <div class="col col-sm"><a href="contato.html"><h2>Contato</h2></a></div>
+        </div>
+        <div class="row">
+            <div class="col col-sm">
+                <p>Se cadastre para receber promoções especiais</p>
+            </div>
+        </div>
+        <div class="row form">
+            <p>
+                <form method="post" name="form_contato" action="index.html">
+                    <div class="row">
+                        <div class="col col-sm">
+                            <h1 class="label_form">Nome: </h1><input type="text" name="nome_contato"><br>
+                        </div>
+                        <div class="col col-sm">
+                            <h1 class="label_form">Sobrenome: </h1><input type="text" name="sobrenome_contato"><br>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col col-sm">
+                            <h1 class="label_form">Celular: </h1><input type="tel" name="celular_contato"><br>
+                        </div>
+                        <div class="col col-sm">
+                            <h1 class="label_form">CPF: </h1><input type="text" name="cpf_contato"><br>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col col-sm">
+                            <h1 class="label_form">Sexo: </h1>
+                            Masculino<input type="radio" name="sexo" value="Masculino"><br>
+                            Feminino<input type="radio" name="sexo" value="Feminino"><br>
+                            Neutro<input type="radio" name="sexo" value="Neutro" checked>
+                        </div>
+                        <div class="col col-sm">
+                            <h1 class="label_form">Moro com: </h1>
+                            Pai<input type="checkbox" name="pai"><br>
+                            Mãe<input type="checkbox" name="mae"><br>
+                            Irmão<input type="checkbox" name="irmao"><br>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col col-sm">
+                            <h1 class="label_form">Data Nascimento: </h1><input type="date" name="birthDate_contato"><br>
+                        </div>
+                        <div class="col col-sm">
+                            <h1 class="label_form">Senha: </h1><input type="password" name="password_contato"><br>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col col-sm">
+                            <input type="submit" value="Criar Contato"> 
+                        </div>
+                    </div>
+                </form>
+            </p>
+        </div>
+    </div>
+    <footer>
+        <div class="row">
+            <div class="col col-sm">
+                <p>Copyright Mercado Natalino</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

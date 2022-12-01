@@ -1,0 +1,61 @@
+body{
+    background-image:url("img/fundoNatal.jpg");
+    alink:s"white";
+    vlink:"lightgreen";
+    link:"orange";
+    text:"red";
+    
+}
+.container{
+    background-color: rgb(19, 170, 85);
+    padding-bottom: 15px;
+}
+
+h1{
+    text-align: center;
+    color:rgb(186, 33, 33);
+    font-size: 50px;
+    font-weight: 500;
+    
+}
+.header h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    color: goldenrod;
+    font-size: 20px;
+}
+h3{
+    color: rgb(186, 33, 33);
+    font-size: 15px;
+}
+.col{
+    justify-content: center;
+    text-align: center;
+}
+.nav h2{
+    font-size: 35px;
+}
+.nav a{
+    text-decoration: none;
+    color:darkgoldenrod;
+}
+.form {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(186, 33, 33);
+}
+
+p{
+    color: goldenrod;
+    font-size: 20px;
+}
+
+col{
+    
+    border-top-color: red;
+    border-bottom-color: blue;
+    border-right-color: green;
+    border-left-color: orange;
+}

@@ -1,0 +1,54 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Número 5</title>
+</head>
+<body id="body">
+    <form>
+        <input type="checkbox" class="box" onclick="checkBox(0)" name="op1" value="cat">
+        <label for="vehicle1">Tenho gato</label><br>
+        <input type="checkbox" class="box" onclick="checkBox(1)" name="op2" value="dog">
+        <label for="vehicle2">Tenho cachorro</label><br>
+        <input type="checkbox" class="box" onclick="checkBox(2)" name="op3" value="fish">
+        <label for="vehicle3">Tenho peixe</label><br>
+        <input type="submit" disabled id="submit">
+    </form>
+</body>
+<script>
+    let box = document.getElementsByClassName('box');
+    var btnSubmit = document.getElementById("submit");
+    let cont = [0,0,0]
+    let quant = 0
+    function checkBox(i){
+        if (box[i].checked == true){
+            cont[i] = 1;
+        }
+        else {
+            cont[i] = 0;
+        }
+        let show = contagem()
+        console.log(show)
+        if (show>=2){
+            document.getElementById("submit").disabled = false;
+        } else {
+            document.getElementById("submit").disabled = true;
+        }
+    }
+
+function contagem() {
+    var quant = 0;
+    for(let i=0;i<cont.length;i++){
+        quant+= cont[i]
+    }
+    return quant;
+}
+
+function enableBtn() {
+    document.getElementById("submit").disabled = false;
+}
+
+</script>
+</html>

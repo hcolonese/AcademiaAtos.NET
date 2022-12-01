@@ -1,0 +1,9 @@
+create database PrimeiroRestAPI
+
+use PrimeiroRestAPI
+
+create login PrimeiroRestAPI with password='PrimeiroRestAPI';
+create user PrimeiroRestAPI from login PrimeiroRestAPI;
+
+exec sp_addrolemember 'DB_DATAREADER', 'PrimeiroRestAPI';
+exec sp_addrolemember 'DB_DATAWRITER', 'PrimeiroRestAPI';

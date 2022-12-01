@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrimeiroXamarimForm.Page">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Sistema para ver se é par ou impar!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Entry Keyboard="Numeric" Placeholder="Digite um Número Inteiro"/>
+            <Button Text="Executar"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
